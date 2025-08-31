@@ -13,3 +13,4 @@ xv6-riscv-src-booklet/fmt
 *.bbl
 *.blg
 *.out
+/.direnv/
